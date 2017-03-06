@@ -1,4 +1,4 @@
-Minimum Variable Product (MVP) Name: Just in Case
+# Minimum Variable Product (MVP) Name: Just in Case
 
 •	What problem does your project solve?
 The product will assist the user with making clear details in case the user dies or is an unable to make any decisions
